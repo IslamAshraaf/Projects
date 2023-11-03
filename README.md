@@ -14,7 +14,7 @@ Welcome to my Data Science portfolio repository! This repository contains a coll
 - Description: Analyzed taxi ride data to optimize routes, improve driver efficiency, and enhance the user experience.
 - Technologies Used: Python, Pandas, NumPy, Seaborn
 
-## Project 4: Monthly Sales Time Series Forecasting (ARIMA Model)
+## Project 4: [Monthly Sales Time Series Forecasting (ARIMA Model)](https://github.com/IslamAshraaf/Projects/blob/main/Monthly%20Sales-Time%20Series%20Forecasting.ipynb)
 - Description: Built an ARIMA time series forecasting model to predict future monthly sales, helping businesses with demand planning.
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Statsmodels, pmdarima
 
