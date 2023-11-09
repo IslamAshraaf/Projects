@@ -27,8 +27,8 @@ Welcome to my Data Science portfolio repository! This repository contains a coll
 - Description: Automated data collection from Booking.com using Selenium to gather hotel information for analysis.
 - Technologies Used: Python, Selenium
 
-### [Opeensooq (Egyptian Apartments)](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Opensooq(Egyptian_Apartments))
-- Description: Scraped apartment listings from Opeensooq using Beautiful Soup to gain insights and help to decide which apartment to buy.
+### [Opensooq (Egyptian Apartments)](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Opensooq(Egyptian_Apartments))
+- Description: Scraped apartment listings from Opensooq using Beautiful Soup to gain insights and help to decide which apartment to buy.
 - Technologies Used: Python, Beautiful Soup
 
 ## Contact
