@@ -18,7 +18,7 @@ Welcome to my Data Science portfolio repository! This repository contains a coll
 - Description: Built an ARIMA time series forecasting model to predict future monthly sales, helping businesses with demand planning.
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Statsmodels, pmdarima
 
-## Project 5: Web Scraping
+## Project 5: Web Scrapping
 ### [Wuzzuf](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Wuzzuf)
 - Description: Scraped job listings from Wuzzuf using Beautiful Soup to analyze job market trends.
 - Technologies Used: Python, Beautiful Soup
