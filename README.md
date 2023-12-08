@@ -2,9 +2,9 @@
 
 Welcome to my Data Science portfolio repository! This repository contains a collection of some projects I've worked on. Feel free to explore the projects below.
 
-## Project 1: [Credit Card Fraud Detection](https://github.com/IslamAshraaf/Projects/blob/main/Pharmacies%20Sales%20Analysis.ipynb)
+## Project 1: [Credit Card Fraud Detection](https://github.com/IslamAshraaf/Projects/blob/main/Credit%20Card%20Fraud%20Detection.ipynb)
 - Description: Implemented a credit card fraud detection system utilizing machine learning algorithms for identifying and preventing fraudulent transactions. The predictive model analyzed transaction patterns, enhancing the security of financial transactions. 
-- Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Preprocessing, Anomaly Detection, Machine Learning(Scikit-Learn)
+- Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Preprocessing, Anomaly Detection, Machine Learning(Scikit-Learn), Model Evaluation Techniques
 
 ## Project 2: [Monthly Sales Time Series Forecasting (ARIMA Model)](https://github.com/IslamAshraaf/Projects/blob/main/Monthly%20Sales-Time%20Series%20Forecasting.ipynb)
 - Description: Built an ARIMA time series forecasting model to predict future monthly sales, helping businesses with demand planning.
@@ -14,10 +14,10 @@ Welcome to my Data Science portfolio repository! This repository contains a coll
 - Description: Analyzed sales data from pharmacies to identify trends, optimize inventory, and improve profitability.
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn
 
-## Project 4: [Spam SMS Detection](https://github.com/IslamAshraaf/Projects/blob/main/Pharmacies%20Sales%20Analysis.ipynb)
+## Project 4: [Spam SMS Detection](https://github.com/IslamAshraaf/Projects/blob/main/Spam%20SMS%20Detecion.ipynb)
 - Description: Developed a spam SMS detection solution using natural language processing (NLP) techniques to analyze message content and identify spam patterns. This improved the messaging experience by filtering out unwanted messages. 
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Data Preprocessing, Anomaly Detection, Natural Language Processing (NLP)
-Text Classification, Machine Learning(Scikit-Learn)
+Text Classification, Machine Learning(Scikit-Learn), Model Evaluation Techniques
 
 ## Project 5: [E-commerce Analysis](https://github.com/IslamAshraaf/Projects/blob/main/E-commerce%20Analysis.ipynb)
 - Description: Conducted in-depth analysis of e-commerce sales data to enhance product recommendations and customer satisfaction.
@@ -27,7 +27,11 @@ Text Classification, Machine Learning(Scikit-Learn)
 - Description: Analyzed taxi ride data to optimize routes, improve driver efficiency, and enhance the user experience.
 - Technologies Used: Python, Pandas, NumPy, Seaborn
 
-## Project 7: Web Scrapping
+## Project 7: [Movie Genre Classification](https://github.com/IslamAshraaf/Projects/blob/main/Movie%20Genre%20Classification.ipynb)
+- Description: Used machine learning to analyze movie details and accurately assign genres. The goal was to improve how movies are recommended for a better user experience. 
+- Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning(Scikit-Learn)
+
+## Project 8: Web Scrapping
 ### [Wuzzuf](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Wuzzuf)
 - Description: Scraped job listings from Wuzzuf using Beautiful Soup to analyze job market trends.
 - Technologies Used: Python, Beautiful Soup
