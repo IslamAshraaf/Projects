@@ -32,17 +32,23 @@ Text Classification, Machine Learning(Scikit-Learn), Model Evaluation Techniques
 - Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning(Scikit-Learn)
 
 ## Project 8: Web Scrapping
-### [Wuzzuf](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Wuzzuf)
-- Description: Scraped job listings from Wuzzuf using Beautiful Soup to analyze job market trends.
-- Technologies Used: Python, Beautiful Soup
 
 ### [Booking](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Booking_Using_Selenium)
 - Description: Automated data collection from Booking.com using Selenium to gather hotel information for analysis.
 - Technologies Used: Python, Selenium
 
+### [Amazon](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Amazon)
+- Description: Scraping laptops data from Amazon website using Selenium to get some insights about the capabilities of laptops and the price for each.
+- Technologies Used: Python, Selenium, Pandas 
+
 ### [Opensooq (Egyptian Apartments)](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Opensooq(Egyptian_Apartments))
 - Description: Scraped apartment listings from Opensooq using Beautiful Soup to gain insights and help to decide which apartment to buy.
 - Technologies Used: Python, Beautiful Soup
+
+### [Wuzzuf](https://github.com/IslamAshraaf/Projects/tree/main/Web%20Scrapping/Wuzzuf)
+- Description: Scraped job listings from Wuzzuf using Beautiful Soup to analyze job market trends.
+- Technologies Used: Python, Beautiful Soup
+
 
 ## Contact
 If you have any questions or feedback please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/islam-ashraf-samy).
