@@ -1,0 +1,310 @@
+,Brand,Series,Package Dimensions,Resolution,Processor Brand,Processor Type,Processor Speed,Processor Count,RAM Size,Hard Drive Size,Hard Disk Description,Graphics Chipset Brand,Item Weight,Color,Availability Date,Rating,Number Of Ratings,Price
+0,ASUS,ROG Strix SCAR 17 G733PY-LL009W,30 x 13 x 3 cm; 200 Grams,,AMD,Ryzen 9,2.5,1,,,SSD,NVIDIA,200 g,Off Black,7 December 2023,,,174009
+1,Apple,,43 x 33 x 10 cm; 3.23 Kilograms,,Apple,Apple M1,1,12,1 TB,1 TB,SSD,Apple,3.23 Kilograms,,14 February 2023,4.8,6,147999
+2,Apple,MacBook,39.6 x 31.2 x 9.2 cm; 3.29 Kilograms,,Apple,Apple M1,1,10,512 GB,512 GB,SSD,Apple,3.29 Kilograms,Space Grey,14 February 2023,4.5,35,119999
+3,HP,"HP Envy 16""",49.5 x 35.7 x 6.7 cm; 2.34 Kilograms,2560x1600 Pixels,Intel,Intel Core i9,4.1 GHz,14,,1 TB,1 TB PCIe Gen4 NVMe TLC M.2 SSD,NVIDIA,2.34 Kilograms,Natural silver aluminum,6 November 2023,,,109166
+4,ASUS,90NR0CZ1-M003S0,65 x 60 x 60 cm; 1.8 Kilograms,,Intel,Core i3-9300T,3 GHz,1,,,SSD,AMD,1.8 Kilograms,Gray,2 August 2023,,,106360
+5,HP,HP Envy,,2560x1600 Pixels,Intel,Intel Core i9,4.1 GHz,14,16 GB,1 TB,1 TB PCIe Gen4 NVMe TLC M.2 SSD,NVIDIA,2.34 Kilograms,Natural silver aluminum,6 November 2023,4.5,2,99159
+6,Apple,"2021 Apple MacBook Pro (14-inch, Ap",,,Apple,Apple M1,3.2 GHz,10,16 GB,512 GB,,Apple,2.65 Kilograms,Space Gray,24 November 2021,4.7,59,95550
+7,Apple,,,,Apple,Intel Core i9,2.6 GHz,10,16 GB,1 TB,,Apple,2.65 Kilograms,Silver,24 November 2021,4.6,28,94999
+8,ASUS,G533QS-HF017T,58 x 35 x 8 cm; 2 Kilograms,,Intel,Ryzen Threadripper 1920X,3 GHz,1,32 GB,1 TB,SSD,NVIDIA,2 Kilograms,Black,15 June 2022,1.0,1,93517
+9,Lenovo,Legion Pro 5 16IRX8 - 82WK008RAX,54 x 35.1 x 8.4 cm; 2.55 Kilograms,2560x1600 Pixels,"Intel® Core™ i7-13700HX, 16C (8P + 8E) / 24T, P-core 2.1 / 5.0GHz, E-core 1.5 / 3.6GHz, 30MB",Intel Core i7,2.1 GHz,16,16,1 TB,1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,NVIDIA,2.55 Kilograms,Onyx Grey,7 October 2023,,,93441
+10,Lenovo,Legion Pro 5 16IRX8,58 x 35 x 10 cm; 2.55 Kilograms,2560x1600 Pixels,"Intel® Core™ i7-13700HX, 16C (8P + 8E) / 24T, P-core 2.1 / 5.0GHz, E-core 1.5 / 3.6GHz, 30MB",Intel Core i7,2.1 GHz,16,,1 TB,1TB SSD M.2 2280 PCIe® 4.0x4 NVMe®,NVIDIA,2.55 Kilograms,Onyx Grey,19 November 2023,,,93441
+11,Lenovo,Yoga,47.2 x 31.6 x 7.6 cm; 2.69 Kilograms,,Intel,,,,16 GB,1 TB,solid state drive,Intel,2.69 Kilograms,,13 April 2021,,,92411
+12,MSI,,,,Intel,,2.4 GHz,8,32 GB,1 TB,SSD,NVIDIA,2.1 Kilograms,teal,12 June 2022,3.5,13,51999.
+13,Lenovo,82HU00VCED,49.9 x 40.2 x 12.6 cm; 2 Kilograms,,Intel,Core i7-660UM,3 GHz,1,16 GB,,SSD,NVIDIA,2 Kilograms,Grey,8 April 2023,,,88810
+14,Lenovo,Legion,54.2 x 38.9 x 8.4 cm; 4.38 Kilograms,,Intel,Core i7 Family,4.6 GHz,8,16 GB,1 TB,SSD,NVIDIA,4.38 Kilograms,,30 May 2022,,,78320
+15,Apple,,42.79 x 32.2 x 8.9 cm; 3.04 Kilograms,,,,8 GHz,8,8,256 GB,,,3.04 Kilograms,,18 June 2023,5.0,1,50255.
+16,Apple,,43 x 32.4 x 9 cm; 3.04 Kilograms,,Apple,,8 GHz,8,8,256 GB,,Apple,3.04 Kilograms,red,18 June 2023,4.3,8,94999.
+17,Lenovo,Legion 5 Pro 16ACH6H,60 x 30 x 8 cm; 2.5 Kilograms,,AMD,AMD Ryzen 7 5800H,4.4 Hz,8,8,1 TB,SSD,AMD,2.5 Kilograms,black,7 December 2022,,,77165
+18,LENOVO,Lenovo LOQ 15IRX9,58 x 35 x 10 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel Core i7-13650HX, 14C (6P + 8E) / 20T, P-core 2.6 / 4.9GHz, E-core 1.9 / 3.6GHz, 24MB",Intel Core i7,2.6 GHz,14,,1 TB,"1TB SSD M.2 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,14 December 2023,,,76500
+19,HP,"HP OMEN 16""",54.9 x 35.29 x 6.7 cm; 2.35 Kilograms,2560x1440 Pixels,Intel,Intel Core i9,3.8 GHz,14,,1 TB,1 TB PCIe NVMe TLC M.2 SSD,NVIDIA,2.35 Kilograms,Black,6 November 2023,,,74769
+20,Lenovo,Legion7,50.1 x 40 x 12.3 cm; 5.02 Kilograms,,Intel,Intel Core i7,4.6 GHz,8,32 GB,2 TB,SSD,NVIDIA,5.02 Kilograms,,7 February 2022,2.6,5,73438
+21,MSI,Alder Lake i7-12700H,52.2 x 43 x 9.7 cm; 2 Kilograms,,Intel,Core i7 4770,3 GHz,1,,1 TB,SSD,NVIDIA,2 Kilograms,Silver,16 July 2022,,,69999
+22,ASUS,FX507ZV4-LP007W,43.1 x 31.3 x 10.4 cm; 3 Kilograms,,Intel,Core i7,2.3,1,16,512 GB,SSD,NVIDIA,3 Kilograms,Jaeger Gray,17 August 2023,,,47061.
+23,HP,HP OMEN,55 x 35 x 9 cm; 2.35 Kilograms,2560x1440 Pixels,Intel,Intel Core i9,3.8 GHz,14,16 GB,1 TB,1 TB PCIe NVMe TLC M.2 SSD,NVIDIA,2.35 Kilograms,Black,9 October 2023,3.9,3,69996
+24,DELL,Dell G15 5530 Gaming,49.5 x 34.9 x 7.4 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Grey,13 November 2023,,,68918
+25,DELL,Dell G15 5530 Gaming,48.2 x 34.79 x 7.6 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Grey,13 November 2023,,,68918
+26,DELL,G15 5530 I7-13650HX 16G 512G RTX4060 165Hz W11,58.1 x 34.7 x 13.4 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,16,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray with Black thermal shelf,19 August 2023,,,68499
+27,Lenovo,Legion 5 15ACH6H,58 x 35 x 8 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 7 5800H,3.2 GHz,8,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,Phantom Blue,14 November 2023,,,68358
+28,DELL,DELL G15 5520 GAMING,51.7 x 34.5 x 7.7 cm; 2.67 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.5 GHz,14,,1 TB,SSD,NVIDIA,2.67 Kilograms,Dark Shadow Grey,6 November 2023,,,66664
+29,ASUS,UP3404VA-OLED005W,41.4 x 28.9 x 8.3 cm; 1.5 Kilograms,,Intel,Core i5,3 GHz,1,,,SSD,Intel,1.5 Kilograms,,11 November 2023,,,66120
+30,LENOVO,Lenovo LOQ 15IRH8 - 82XV00KKAX,54.2 x 35.6 x 8.6 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i7-13620H, 10C (6P + 4E) / 16T, P-core 2.4 / 4.9GHz, E-core 1.8 / 3.6GHz, 24MB",Intel Core i7,2.4 GHz,10,16 GB,512 GB,"512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,18 August 2023,,,66053
+31,Lenovo,Legion 5 15ACH6H 82JU01BEAX,55.5 x 36.5 x 8.6 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 7 5800H,3.2 GHz,8,16 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,Phantom Blue,16 February 2023,2.5,3,65960
+32,HP,15-fa1104ne,48.29 x 31.1 x 10.7 cm; 2.33 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.4 GHz,14,,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.33 Kilograms,Performance Blue,7 October 2023,,,65937
+33,DELL,G15 5530 I7-13650HX 16G 1TB RTX4050 6G 120Hz Win11,58.1 x 34.5 x 7.7 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,16,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray,17 October 2023,,,65504
+34,DELL,G15 5530 I7-13650HX 16G 1TB RTX4050 6G 120Hz W11,57.9 x 34.7 x 7.7 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,16,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray,17 October 2023,,,65504
+35,DELL,G15 5530 Gaming,58 x 35 x 8 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray,17 October 2023,,,65504
+36,LENOVO,Legion 5 15IAH7H - 82RB00T2AK,54.5 x 33.6 x 8.8 cm; 2.4 Kilograms,2560x1440,Intel,Intel Core i7,1.7 GHz,14,16 GB,1 TB,SSD,NVIDIA,2.4 Kilograms,Storm Grey,28 April 2023,,,64894
+37,Apple,Macbook air,,,Apple,,1,8,8 GB,256 GB,,Apple,1.2 Kilograms,Space Grey,14 December 2022,4.7,31,95550.
+38,Apple,,,,Apple,,3.49 GHz,8,8 GB,256 GB,,Apple,1.2 Kilograms,red,19 October 2022,4.6,82,95550.
+39,LENOVO,Yoga 7 14IRL8 - 82YL00,47.7 x 29.6 x 7.4 cm; 1.55 Kilograms,2240 x 1400 Pixels,Intel,Intel Core i7,1.7 GHz,10,16 GB,512 GB,512GB SSD M.2 2242 PCIe 4.0x4 NVMe,Intel,1.55 Kilograms,Storm Grey,19 October 2023,,,63739
+40,DELL,G15 5520,51.7 x 34.5 x 7.6 cm; 2.67 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.5 GHz,14,,1 TB,SSD,NVIDIA,2.67 Kilograms,Dark Shadow Grey,6 November 2023,,,63250
+41,DELL,DELL G15 5520 GAMING,58 x 35 x 8 cm; 2.67 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.5 GHz,14,,1 TB,SSD,NVIDIA,2.67 Kilograms,Dark Shadow Grey,6 November 2023,,,63250
+42,DELL,DELL G15 5520 GAMING,51.7 x 34.4 x 7.6 cm; 2.67 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.5 GHz,14,,1 TB,SSD,NVIDIA,2.67 Kilograms,Dark Shadow Grey,6 November 2023,,,63250
+43,DELL,G15 5530 I7-13650HX 8G 1TB RTX4050 6G 120Hz WIN11,57.9 x 34.6 x 7.7 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,,1 TB,SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray,17 October 2023,,,63250
+44,Lenovo,Legion 5 Pro 16ITH6H - 82JD00DTED,58 x 35 x 8 cm; 2.3 Kilograms,2560x1600 Pixels,Intel,Core i7 Family,4.6 GHz,8,16,1 TB,SSD,NVIDIA,2.3 Kilograms,Gray,13 May 2023,,,63124
+45,LENOVO,IdeaPad Flex 5 14ITL05 i5-1135G7 8G 256G W11,47.6 x 28.2 x 6.9 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,18 September 2023,,,61670
+46,Dell,Inspiron 14-7430 2n1 i7-1355U 16GB 1T 14 FHD TCH W11H,41.9 x 35.6 x 6.9 cm; 1.6 Kilograms,1920x1200 Pixels,Intel,Intel Core i7,3.7 GHz,10,,1 TB,SSD,Intel,1.6 Kilograms,Platinum Silver,2 November 2023,,,61425
+47,Dell,Inspiron 14-7430 2n1 i7-1355U 16GB 1T 14 FHD TCH WIN11,41.79 x 35.6 x 6.9 cm; 1.58 Kilograms,1920x1200 Pixels,Intel,Intel Core i7,3.7 GHz,10,,1 TB,SSD,Intel,1.58 Kilograms,Platinum Silver,17 October 2023,,,61425
+48,DELL,G15-5511 I7-11800H 16G 512G 3060 U,52 x 34.9 x 8.1 cm; 2.7 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4600 MHz,8,16 GB,512 GB,SSD,NVIDIA,2.7 Kilograms,Gray,19 October 2022,4.0,1,40788.
+49,LENOVO,Lenovo LOQ 15IRH8 - 82XV0083AX,54.3 x 35.8 x 9.1 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i7-13620H, 10C (6P + 4E) / 16T, P-core 2.4 / 4.9GHz, E-core 1.8 / 3.6GHz, 24MB",Intel Core i7,2.4 GHz,10,8 GB,512 GB,"512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,18 August 2023,,,60999
+50,Lenovo,Legion 5 Pro 16ARH7H - 82RG00GMAX,59 x 35 x 8 cm; 2.49 Kilograms,2560x1600,AMD,Ryzen 7,3.2 GHz,8,16,1 TB,SSD,NVIDIA,2.49 Kilograms,Strom Grey,19 December 2022,1.0,1,60929
+51,Generic,,37 x 27 x 19 cm; 2.2 Kilograms,,Intel,Intel Core i7,4.7 GHz,14,8 GB,512 GB,SSD,NVIDIA,2.2 Kilograms,,22 May 2022,,,47061.
+52,lenovo,LOQ 15IRH8,57.7 x 47.9 x 8.7 cm; 3.9 Kilograms,,Intel,Core i7,144 Hz,,16 GB,8 GB,,NVIDIA,3.9 Kilograms,Storm Grey,13 August 2023,4.0,1,60929.
+53,Dell,,,,Intel,Intel Core i7,2.3 GHz,8,16 GB,512 GB,SSD,NVIDIA,4.23 Kilograms,,12 January 2022,,,57999.
+54,HP,"HP Envy x360 Convert I7-1260P 16G 512G W11 15.6"" TCH",53.7 x 33.29 x 14.4 cm; 1.82 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.4 GHz,12,,512 GB,512 GB PCIe NVMe M.2 SSD,Intel,1.82 Kilograms,Natural silver aluminum,2 November 2023,,,58755
+55,Lenovo,Lenovo IdeaPad Gaming 3 15IAH7,54.9 x 35.9 x 8.6 cm; 2.32 Kilograms,1920x1080 Pixels,Intel,Core i7-12650H,2.3 GHz,10,,512 GB,"SSD, 512GB SSD M.2 2280 PCIe® 3.0x4 NVMe®",NVIDIA,2.32 Kilograms,Onyx Grey,10 December 2022,,,58124
+56,Dell,,20 x 20 x 18 cm; 2.5 Kilograms,,Intel,Intel Core i7,2.3 GHz,8,16 GB,1 TB,SSD,NVIDIA,2.5 Kilograms,,11 January 2022,1.9,3,57999
+57,LENOVO,Legion 5 15IAH7 - 82RC00DLAK,58 x 35 x 8 cm; 2.4 Kilograms,2560x1440 Pixels,Intel,Intel Core i7,2.3 GHz,14,,512 GB,512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®,NVIDIA,2.4 Kilograms,Storm Grey,28 April 2023,,,57987
+58,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 16G 1.256T 3050TI W11,53.7 x 32.4 x 10.5 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,1256 GB,Hybrid,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,1.0,1,57199
+59,HP,16-d1012ne,48.2 x 34.2 x 7.2 cm; 2.46 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4700 MHz,14,16,1 TB,SSD,NVIDIA,2.46 Kilograms,Mica silver,17 September 2022,,,57182
+60,LENOVO,Legion 5 15IAH7 - 82RC00DEAX,55.8 x 35.8 x 8.7 cm; 2.4 Kilograms,2560x1440 Pixels,Intel,Intel Core i7,2.3 GHz,14,16,1 TB,1TB SSD M.2 2280 PCIe® 4.0x4 NVMe,NVIDIA,2.4 Kilograms,Storm Grey,28 April 2023,,,57182
+61,HP,15-fa0032dx,,1920 x 1080 Pixels,Intel,Intel Core i7,4700 MHz,10,16 GB,512 GB,SSD,NVIDIA,2.29 Kilograms,Mica Silver,2 September 2022,4.1,19,949.
+62,Dell,G15-5511 i711800H16G512G3050W10,50.8 x 34 x 7.8 cm; 2.5 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4600 MHz,8,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Multi Color,6 January 2022,3.4,36,823.
+63,Lenovo,Lenovo IdeaPad Gaming 3 15IAH7,55.1 x 36.1 x 10.1 cm; 2.3 Kilograms,1920x1080 Pixels,Intel,Core i7-12650H,2.3 GHz,10,,512 GB,"SSD, 512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®",NVIDIA,2.3 Kilograms,Onyx Grey,28 April 2023,,,56987
+64,Lenovo,LOQ-15IRH8,34 x 26 x 16 cm; 3.87 Kilograms,,Intel,Core i7,,1,,512 GB,SSD,NVIDIA,3.87 Kilograms,,15 September 2023,,,56555
+65,Lenovo,Legion 5 15ACH6H 82JU00B1AX,58 x 35 x 9 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3300 MHz,6,16 GB,1 TB,SSD,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",7 December 2022,2.0,1,56085
+66,Lenovo,IdeaPad,,1920x1080 Pixels,Intel,Core i7-12650H,2.3 GHz,10,16 GB,512 GB,"SSD, 512GB SSD M.2 2280 PCIe® 3.0x4 NVMe®",NVIDIA,2.32 Kilograms,Onyx Grey,10 December 2022,,,56085
+67,ASUS,FX507ZC-HN003W,42.9 x 31.3 x 10.6 cm; 4 Kilograms,,Intel,Core i7,3.5,14,16,512 GB,SSD,NVIDIA,4 Kilograms,,25 December 2022,5.0,4,175.
+68,LENOVO,Legion 5 15IAH7 - 82RC00DLAK,58 x 35 x 8 cm; 2.4 Kilograms,2560x1440 Pixels,Intel,Intel Core i7,2.3 GHz,14,16 GB,512 GB,512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®,NVIDIA,2.4 Kilograms,Storm Grey,28 April 2023,1.0,2,54987
+69,LENOVO,IdeaPad Gaming 3 15IAH7 - 82S9010MAK,55.3 x 35.6 x 8.5 cm; 2.3 Kilograms,1920x1080 Pixels,Intel,Core i7-12650H,2.3 GHz,10,16 GB,512 GB,"SSD, 512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®",NVIDIA,2.3 Kilograms,Onyx Grey,28 April 2023,3.0,1,54987
+70,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 8G 1.256T 3050TI W11,53.8 x 33 x 14 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,8 GB,1256 GB,Hybrid,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,5.0,1,54630
+71,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 8G 1T HDD 256SSD 3050TI W11,53.8 x 32.8 x 10.5 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,8 GB,1256 GB,Hybrid,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,,,54630
+72,LENOVO,LOQ 15IRH8 I7-13620H 16G 512G RTX4050,54.1 x 45.6 x 8.4 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i7-13620H, 10C (6P + 4E) / 16T, P-core 2.4 / 4.9GHz, E-core 1.8 / 3.6GHz, 24MB",Intel Core i7,2.4 GHz,10,16 GB,512 GB,"512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,13 September 2023,,,54470
+73,LENOVO,Legion 5 15IAH7 - 82RC00DEAX,58 x 35 x 8 cm; 2.4 Kilograms,2560x1440 Pixels,Intel,Intel Core i7,2.3 GHz,14,,1 TB,1TB SSD M.2 2280 PCIe® 4.0x4 NVMe,NVIDIA,2.4 Kilograms,Storm Grey,28 April 2023,,,53979
+74,Lenovo,Yoga,,,Intel,Core i7 Family,4.7 GHz,4,16 GB,1 TB,SSD,Intel,2.29 Kilograms,red,3 August 2022,,,53928
+75,DELL,G15 5530 I7-13650HX 16G 512G RTX3050 6G 120Hz W11,59.5 x 36.5 x 7.8 cm; 2.65 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,2.6 GHz,14,16,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,2.65 Kilograms,Dark Shadow Gray with Black thermal shelf,9 September 2023,,,53325
+76,Lenovo,90RE00L8ED,57.1 x 42.4 x 24.9 cm; 2 Kilograms,,Intel,Core i3-9300T,3 GHz,1,,512 GB,SSD,NVIDIA,2 Kilograms,Gray,1 June 2023,,,52899
+77,Apple,,,,Apple,,3.2 GHz,8,8 GB,256 GB,,Apple,1.29 Kilograms,Grey,9 November 2020,4.7,702,110.
+78,Apple,,,,Apple,,3.2 GHz,8,8 GB,256 GB,,Apple,1.29 Kilograms,Gold,9 November 2020,4.8,346,110.
+79,HP,HP Victus Gaming,48.2 x 34.79 x 6.8 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 7,3.2 GHz,8,,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.4 Kilograms,Ceramic White,9 November 2023,,,51573
+80,Dell,G15 5520 I7-12700H 16G 512G RTX3060 UBU,54.6 x 51.8 x 8.1 cm; 2.5 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4700 MHz,14,16,512 GB,SSD,NVIDIA,2.5 Kilograms,Shadow Grey,14 February 2023,4.0,1,51195
+81,ASUS,90NR09Q3-M009V0,47.9 x 32 x 12.4 cm; 4 Kilograms,,Intel,Core i7,3.5,10,16,512 GB,SSD,NVIDIA,4 Kilograms,,1 December 2022,5.0,2,51048
+82,ASUS,FA507RM-HQ098W,65 x 60 x 60 cm; 1.8 Kilograms,,Intel,Core i3-9300T,3 GHz,1,16,1 TB,SSD,AMD,1.8 Kilograms,Gray,2 August 2023,,,51028
+83,Lenovo,Lenovo Thinkbook 15 G2 I5-1135G7 8G 256G W10H,,1080p Full HD Pixels,Intel,,,4,8 GB,256 GB,SSD,Intel,1.7 Kilograms,Gray,1 April 2022,5.0,1,25832.
+84,Lenovo,ThinkBook,49.8 x 30.6 x 7.6 cm; 2.64 Kilograms,1080 x 1920 Pixels,Intel,,2.8 GHz,,8 GB,1 TB,HDD,NVIDIA,2.64 Kilograms,,16 June 2021,3.9,4,42886.
+85,Lenovo,ThinkPad,48 x 33.2 x 8 cm; 2.79 Kilograms,1080p Full HD Pixels,Intel,,,1,8 GB,256 GB,SSD,NVIDIA,2.79 Kilograms,Black,17 April 2022,5.0,1,50999
+86,HP,16-d1011ne,60.1 x 35.9 x 7.3 cm; 2.46 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4700 MHz,14,16,1 TB,SSD,NVIDIA,2.46 Kilograms,Blue,17 September 2022,3.8,5,50255
+87,HP,16-d1013ne,52.4 x 35 x 8 cm; 2.46 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4700 MHz,14,16,1 TB,SSD,NVIDIA,2.46 Kilograms,Ceramic White,17 September 2022,3.7,3,50255
+88,Lenovo,,,,Intel,Core i7 Family,4.6 GHz,8,16 GB,512 GB,,,2.5 Kilograms,Phantom Blue,30 May 2022,3.3,3,49999
+89,LENOVO,Lenovo LOQ 15IRH8,58 x 35 x 10 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",Intel Core i5,2.1 GHz,10,,1 TB,"1TB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,17 November 2023,,,49854
+90,Dell,Dell G15-5520 Gaming Laptop,51.8 x 34.5 x 7.9 cm; 2.4 Kilograms,,Intel,Core I7 12700H,3.5 GHz,14,16 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,Shadow Grey,12 July 2022,3.9,100,48999
+91,HP,16-D1058NE,,,Intel,Core i3-9300T,3 GHz,1,8,,SSD,Intel,2 Kilograms,,11 November 2022,,,48999
+92,Lenovo,IdeaPad Gaming 3 15ACH6 82K201XKAX,54.4 x 34.8 x 8.3 cm; 2.25 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 7 5800H,3.2 GHz,8,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,21 December 2022,4.2,72,48341
+93,LENOVO,IdeaPad,,,Intel,Intel Core i7,2.3 GHz,1,16 GB,512 GB,,NVIDIA,2.82 Kilograms,gray,24 May 2023,4.4,15,3800.
+94,HP,16-D1026NE,,,Intel,Core i3-9300T,3 GHz,1,16,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,47999
+95,Lenovo,,49.4 x 33.8 x 7.6 cm; 6 Kilograms,,Intel,Intel Core i7,2.3 GHz,8,16 GB,512 GB,SSD,NVIDIA,6 Kilograms,,11 January 2022,3.4,3,1602.
+96,LENOVO,Lenovo LOQ 15IRH8,53 x 36 x 8.5 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i5-13420H, 8C (4P + 4E) / 12T, P-core 2.1 / 4.6GHz, E-core 1.5 / 3.4GHz, 12MB",Intel Core i5,2.1 GHz,10,8,1 TB,"1TB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,4 October 2023,5.0,2,47540
+97,ASUS,FX507ZC4-HN002W,42.7 x 31.1 x 10.9 cm; 3 Kilograms,,Intel,Core i7,2.3,14,16,512 GB,SSD,NVIDIA,3 Kilograms,,17 August 2023,4.0,1,47061
+98,HP,Victus 7N3S2UA,55 x 35 x 8 cm; 2.33 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2.1 GHz,8,,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.33 Kilograms,Performance Blue,2 November 2023,,,46785
+99,HP,16-e1026ne,55 x 35 x 8 cm; 2.5 Kilograms,1920x1080 Pixels,AMD,Ryzen 5,3.3 GHz,6,,512 GB,512GB PCIe NVMe M.2 SSD,NVIDIA,2.5 Kilograms,Mica Silver,7 October 2023,,,46785
+100,LENOVO,15ACH6-56H16G512G3050W11,54.4 x 35.1 x 8.6 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",21 February 2023,2.2,6,46383
+101,LENOVO,Legion 5 15ACH6,54.2 x 34.6 x 8.4 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,46383
+102,LENOVO,Legion 5 15ACH6,54.2 x 34.5 x 8.4 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,46383
+103,LENOVO,Legion 5 15ACH6,54.2 x 34.6 x 8.5 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,46383
+104,LENOVO,Legion 5 15ACH6,58 x 36 x 8 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,46383
+105,LENOVO,Legion 5 15ACH6,,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,32 GB,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,46383
+106,HP,HP Victus 16-e1014ne,55 x 35 x 8 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 7,4.7 GHz,8,16,512 GB,SSD,NVIDIA,2.4 Kilograms,Blue,20 December 2022,5.0,1,44999.
+107,Lenovo,82N600Q3ED,55.9 x 32.29 x 7.7 cm; 2 Kilograms,,Intel,Core i7-660UM,3 GHz,1,,,SSD,NVIDIA,2 Kilograms,Grey,8 April 2023,,,46331
+108,LENOVO,IdeaPad Gaming 3 15ACH6 - 82K2020BAX,53.6 x 33.9 x 7.8 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 7 5800H,3.2 GHz,8,8 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,28 April 2023,,,46147
+109,Lenovo,IdeaPad Gaming 3 15IHU6 - 82K100FHAX,53.6 x 32.6 x 8.1 cm; 2.25 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3300 GHz,4,16,1256 GB,Hybrid,NVIDIA,2.25 Kilograms,Shadow Black,25 May 2022,3.8,9,46000
+110,Lenovo,IdeaPad Gaming,,1920 x 1080 Pixels,AMD,,,6,16 GB,512 GB,SSD,NVIDIA,2.18 Kilograms,multi,9 June 2022,4.3,64,45999
+111,MSI,"GF63 Thin 11SC (9S7-16R612-610) -i5-11400H -8GB (3200MHz)-256GB SSD +1TB -GTX1650, GDDR6 4GB-15.6"" FHD 60 HZ-IYR-Black",47.9 x 33.1 x 9.5 cm; 1.86 Kilograms,,Intel,Core i5-11400H,2.7 GHz,6,8,1 TB,"SSD, HDD",Intel,1.86 Kilograms,Black,24 May 2023,,,29400.
+112,HP,HP Pavilion 15-dk i7 16G 1.256T RTX3050,55.4 x 30.8 x 6.9 cm; 2.28 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,4.8 GHz,4,16,1256 GB,Hybrid,NVIDIA,2.28 Kilograms,Black,15 May 2023,,,45645
+113,HP,15-fa1093dx,,1920x1080 Pixels,Intel,Intel Core i5,2.1 GHz,8,8 GB,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.31 Kilograms,Performance Blue,22 August 2023,3.8,14,45444
+114,DELL,G15-5511 I7-11800H 16G 512G RTX3060 UBU,51.5 x 34.29 x 7.8 cm; 2.5 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4600 MHz,8,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Gray,14 February 2023,,,45230
+115,LENOVO,Legion 5 15ACH6,54.2 x 34.6 x 8.4 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,45226
+116,LENOVO,Legion 5 15ACH6,54.2 x 34.5 x 8.5 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512GB SSD M.2 2280 PCIe 3.0x4 NVMe,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",8 November 2023,,,45226
+117,LENOVO,ThinkPad L13 Yoga Gen 2,43.6 x 28.5 x 7.6 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,512 GB,512GB SSD M.2 PCIe® 3.0x4 NVMe,Intel,1.44 Kilograms,Black,8 November 2023,,,45226
+118,LENOVO,ThinkPad L13 Yoga Gen 2,43.6 x 28.8 x 7.6 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,512 GB,512GB SSD M.2 PCIe® 3.0x4 NVMe,Intel,1.44 Kilograms,Black,8 November 2023,,,45226
+119,LENOVO,ThinkPad L13 Yoga Gen 2,42 x 32 x 7 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,512 GB,512GB SSD M.2 PCIe® 3.0x4 NVMe,Intel,1.44 Kilograms,Black,6 November 2023,,,45226
+120,LENOVO,ThinkPad L13 Yoga Gen 2 I5-1135G7 16G 512G W10PRO,43.4 x 28.6 x 7.6 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,16 GB,512 GB,512GB SSD M.2 PCIe® 3.0x4 NVMe,Intel,1.44 Kilograms,Black,1 November 2023,,,45226
+121,HP,HP Victus 16-e1011ne,55 x 35 x 8 cm; 2.4 Kilograms,1920x1080 Pixels,AMD,Ryzen 7,3.2 GHz,8,16,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.4 Kilograms,Performance Blue,19 December 2022,,,44999
+122,LENOVO,ThinkPad L13 Yoga Gen 2 I5-1135G7 16G 512G W10P,43.5 x 28.6 x 7.4 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,16 GB,512 GB,512GB SSD M.2 PCIe® 3.0x4 NVMe,Intel,1.44 Kilograms,Black,18 September 2023,,,43969
+123,Dell,G15 5515,,1920x1080 Pixels,AMD,Ryzen 7 5800H,3200 MHz,8,16,512 GB,SSD,NVIDIA,2.5 Kilograms,Gray,1 December 2021,4.0,18,43850
+124,Lenovo,82K600BMED,51.5 x 30.9 x 7.2 cm; 2 Kilograms,,Intel,Core i3-9300T,3 GHz,1,8 GB,,SSD,NVIDIA,2 Kilograms,Grey,8 April 2023,,,43523
+125,HP,Probook 450 G9 5Y3T2EA,56.2 x 30.7 x 7.2 cm; 1.7 Kilograms,,Intel,Intel Core i7,4700 MHz,10,8 GB,512 GB,SSD,Intel,1.7 Kilograms,Silver,23 October 2022,5.0,2,1947.
+126,ASUS,UX363EA-OLED007W,45.9 x 26.3 x 7.7 cm; 2 Kilograms,,Intel,Core i7 3537U,3 GHz,1,16 GB,1 TB,SSD,Intel,2 Kilograms,Dark Grey,15 June 2022,,,42999
+127,Lenovo,Legion,,1920x1080 Pixels,,Ryzen 5 5600H,,8,8 GB,512 GB,,NVIDIA,2.4 Kilograms,"Phantom Blue (Top), Shadow Black (Bottom)",22 January 2023,4.6,66,42886
+128,LENOVO,ThinkPad L13 Yoga Gen 2 - 20VLS20600,45.6 x 28.9 x 7.8 cm; 1.44 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,16 GB,512 GB,SSD,Intel,1.44 Kilograms,Black,28 April 2023,4.0,1,42886
+129,Lenovo,IdeaPad Gaming 3 15IAH7 - 82S900YSED,55.1 x 36.29 x 8.4 cm; 2.31 Kilograms,1920x1080 Pixels,Intel,Core i7-12650H,2.3 GHz,10,16 GB,512 GB,"SSD, 512GB SSD M.2 2280 PCIe® 3.0x4 NVMe®",NVIDIA,2.32 Kilograms,Onyx Grey,14 August 2023,5.0,1,42500
+130,HP,Victus 15 I5-13420H 8G 512G 6RTX3050 W11,52.1 x 30.6 x 6.9 cm; 2.33 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2.1 GHz,8,,512 GB,512 GB PCIe NVMe M.2 SSD,NVIDIA,2.33 Kilograms,Performance Blue,4 November 2023,,,42496
+131,DELL,G15-5515 R5 5600H 16G 512G RTX3050 W11,54.2 x 35.4 x 7.9 cm; 2.5 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 5 5600H,4200 MHz,6,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,,14 February 2023,5.0,1,39794.
+132,DELL,G15-5515 Gaming,58 x 35 x 8 cm; 2.5 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.5 Kilograms,Phantom Grey,3 November 2023,,,42317
+133,DELL,G15-5515 Gaming,58 x 35 x 8 cm; 2.5 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.5 Kilograms,Phantom Grey,3 November 2023,,,42317
+134,DELL,G15-5515 R5 5600H 8G 512G RTX3050 W11,58 x 35 x 8 cm; 2.5 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.5 Kilograms,Phantom Grey,3 November 2023,,,42317
+135,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 16G 512SSD 3050TI W11,56 x 32.9 x 15.3 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,3.3,3,95.
+136,Dell,Vostro,,,Intel,Core i7-1065G7,2.4 GHz,4,16 GB,256 GB,,NVIDIA,1.69 Kilograms,Black,24 July 2022,3.0,2,35950.
+137,LENOVO,Yoga 7 16IRL8 i5-1335U 8G 512G 16TCH,,1920x1200 Pixels,Intel,Intel Core i5,1.3 GHz,10,8,512 GB,512GB SSD M.2 2242 PCIe 4.0x4 NVMe,Intel,2 Kilograms,Aluminium Storm Grey,4 November 2023,3.8,6,41721
+138,Lenovo,IdeaPad Gaming 3 15IHU6 82K100F5ED,58 x 35 x 8 cm; 2.25 Kilograms,1920x1080 Pixels,Intel,Intel Core i7,3.3 GHz,4,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,13 May 2023,5.0,1,41717
+139,HP,HP Pavilion 15-dk2100 i7 16G 1.256T RTX3050,,1920x1080 Pixels,Intel,Intel Core i7,4.8 GHz,4,16,1256 GB,Hybrid,NVIDIA,2.28 Kilograms,Black,14 October 2022,,,41717
+140,HP,HP ProBook 450 G9,55 x 35 x 9 cm; 1.74 Kilograms,1920x1080,Intel,Intel Core i7,3.5,10,16,512 GB,SSD,NVIDIA,1.74 Kilograms,,23 July 2023,,,41199
+141,DELL,G15-5511 I5-11260H 16G 512G RTX3050 UBU,51.8 x 34.7 x 8.5 cm; 2.5 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i5,4400 MHz,6,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Shadow Grey,14 February 2023,,,41168
+142,Dell,VOSTRO 3510 I7 16G 512G 2G MX350 UBU,55 x 35 x 7 cm; 1.69 Kilograms,1920x1080 Pixels,Intel,Intel Core i7-1165G7,4.7 GHz,4,16 GB,512 GB,SSD,NVIDIA,1.69 Kilograms,Black,29 April 2023,,,30999.
+143,HP,13-BF0001NE,,,Intel,Core i3-9300T,3 GHz,1,,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,40999
+144,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 16G 1T 256G 3050TI W11,53.4 x 32.79 x 10.2 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,1256 GB,Hybrid,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,4.5,2,54630.
+145,Lenovo,IdeaPad Gaming 3 15ACH6 - 82K201XCUS,,,AMD,Ryzen 5 5600H,3.3 GHz,6,8 GB,256 GB,SSD,NVIDIA,2.25 Kilograms,Black,6 December 2022,4.4,20,57199.
+146,LENOVO,IdeaPad Gaming 3 5600H 8G 512SSD 3050TI W11,54.4 x 35.5 x 10.4 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,8,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,,,40999
+147,Lenovo,Ideapad Gaming 3,57.8 x 33 x 7 cm; 2 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,2.6 GHz,6,16,1 TB,Hybrid,NVIDIA,2 Kilograms,Black,4 April 2021,3.6,6,40999
+148,ASUS,FX506HF-HN001W,,,Intel,Core i5,2.7,6,8 GB,512 GB,SSD,NVIDIA,,Graphite Black,9 May 2023,,,47061.
+149,acer,Aspire 7,,1920 x 1080 Pixels,Intel,Core i5,,12,16 GB,1 TB,SSD,NVIDIA,2.1 Kilograms,Charcoal Black,27 October 2023,5.0,1,40999
+150,Acer,,50.5 x 31.1 x 6.6 cm; 2.1 Kilograms,,,,,8,8,512 GB,,,2.1 Kilograms,red,21 September 2023,3.5,9,40999
+151,ASUS,Vivobook Pro D3500QC-OLED007W,47 x 29.2 x 6.8 cm; 1.65 Kilograms,,AMD,Ryzen 7 5800U,4.4 GHz,8,,512 GB,SSD,NVIDIA,1.65 Kilograms,Blue,9 January 2023,5.0,2,64.
+152,DELL,G15-5511 I7-11800H 16G 512G 3050 U,58 x 35 x 9 cm; 2.7 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7,4600 MHz,8,16 GB,512 GB,SSD,NVIDIA,2.7 Kilograms,Gray,19 October 2022,3.7,5,40788
+153,Lenovo,Lenovo IdeaPad Gaming 3 - 82K200QCAX,,1920 x 1080 Pixels,AMD,Ryzen 7 5800H,4400 MHz,8,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Black,26 January 2022,,,40782
+154,HP,Victus Gaming Laptop,52.29 x 31 x 6.7 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2 GHz,8,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.4 Kilograms,Mica Silver,9 November 2023,,,40766
+155,HP,Victus Gaming Laptop,52.2 x 30.9 x 6.7 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2 GHz,8,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.4 Kilograms,Mica Silver,9 November 2023,,,40766
+156,HP,Victus 68U87UA,52.29 x 30.8 x 7 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2 GHz,8,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.4 Kilograms,Mica Silver,1 November 2023,,,40766
+157,LENOVO,Lenovo LOQ 15IRH8,58 x 35 x 10 cm; 2.4 Kilograms,1920x1080 Pixels,"Intel® Core™ i5-12450H, 8C (4P + 4E) / 12T, P-core 2.0 / 4.4GHz, E-core 1.5 / 3.3GHz, 12MB",Intel Core i5,2 GHz,10,,512 GB,"512GB SSD M.2 2242 PCIe® 4.0x4 NVMe®, SSD",NVIDIA,2.4 Kilograms,Storm Grey,14 December 2023,,,40597
+158,DELL,G15-5511 I5-11260H 8G 512G RTX3050 UBU,51.8 x 34.4 x 8.3 cm; 2.5 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i5,4400 MHz,6,8 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,dark shadow Grey,14 February 2023,,,40070
+159,Dell,G15 5510 i5-10500H16G512G1650U,58 x 35 x 9 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,4500 MHz,6,16 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,Grey,28 July 2022,3.7,33,48999.
+160,HP,14-DV2005NE,,,Intel,Core i3-9300T,3 GHz,1,16,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,39999
+161,HP,Victus 15-fa0031dx,,1920x1080 Pixels,Intel,Intel Core i5,4400 MHz,8,8 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,Silver,24 July 2022,4.4,190,95.
+162,Dell,VOSTRO 3510 I7 8G 512G 2D UBU,55 x 35 x 7 cm; 1.69 Kilograms,1920x1080 Pixels,Intel,Intel Core i7-1165G7,4.7 GHz,4,,512 GB,SSD,NVIDIA,1.69 Kilograms,Black,10 October 2022,3.9,39,32680.
+163,Dell,G15 5510 i5-10500H8G512G1650U,58 x 35 x 8 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,4500 MHz,6,8 GB,512 GB,SSD,NVIDIA,2.4 Kilograms,Grey,28 July 2022,3.8,3,34655.
+164,DELL,G15-5511 I511260h16g512g3050ub,51.9 x 34.6 x 8.1 cm; 2.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,4400 MHz,6,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Dark Shadow Grey,9 November 2022,5.0,1,39794
+165,HP,HP Pavilion Gaming Laptop,55.2 x 30.6 x 6.9 cm; 2.28 Grams,1920 x 1080 Pixels,Intel,Intel Core i5,3.1 GHz,4,,1256 GB,256 GB PCIe NVMe M.2 SSD 1 TB 7200 rpm SATA HDD,NVIDIA,2.28 g,Shadow Black,9 November 2023,,,39535
+166,Dell,,50.8 x 34 x 7.8 cm; 3.73 Kilograms,,,,,,8 GB,512 GB,,,3.73 Kilograms,ice,16 August 2021,4.4,12,1180.
+167,Dell,Vostro,48 x 32 x 7.4 cm; 2.77 Kilograms,,,,,,8 GB,1 TB,,,2.77 Kilograms,red,27 December 2021,3.4,22,4149.
+168,Dell,Vostro 3510 i7-1165G7.16G.1256G2MX350G.UBU,49.7 x 32.8 x 7.7 cm; 1.8 Kilograms,1920x1080 Pixels,Intel,Intel Core i7-1165G7,4700 MHz,4,16,1256 GB,Hybrid,NVIDIA,1.8 Kilograms,Black,1 June 2022,4.0,34,130.
+169,Lenovo,82K10132UK,,1080p Full HD MP,Intel,Intel Core i5,4.4 GHz,4,8 GB,512 GB,SSD,Intel,3.27 Kilograms,Shadow Black,7 August 2022,4.4,22,38500
+170,Dell,,49.6 x 34.2 x 7.4 cm; 3.75 Kilograms,,,,,,8 GB,512 GB,,,3.75 Kilograms,red,18 January 2022,3.7,33,72.
+171,LENOVO,IdeaPad Flex 5 14ITL05,42 x 32 x 7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,8 November 2023,,,38217
+172,LENOVO,IdeaPad Flex 5 14ITL05,42 x 32 x 7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,8 November 2023,,,38217
+173,LENOVO,IdeaPad Flex 5 14ITL05,42 x 32 x 7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,8 November 2023,,,38217
+174,LENOVO,IdeaPad Flex 5 14ITL05,42 x 32 x 7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,8 November 2023,,,38217
+175,LENOVO,IdeaPad Flex 5 14ITL05,42 x 32 x 7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,6 November 2023,,,38217
+176,LENOVO,IdeaPad Flex 5 14ITL05 i5-1135G7 8G 256G WIN11,47.9 x 28.2 x 6.9 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,,256 GB,256GB SSD M.2 2242 PCIe® 3.0x4 NVMe,Intel,1.5 Kilograms,Graphite Grey,1 November 2023,,,38217
+177,HP,HP ProBook 450 G9,52 x 33 x 9 cm; 1.74 Kilograms,1920x1080,Intel,Core i5,3.3,10,8,512 GB,SSD,NVIDIA,1.74 Kilograms,,23 July 2023,,,38199
+178,Lenovo,Lenovo IdeaPad Gaming 3 - 82K2006SFE,58 x 35 x 8 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Black,28 April 2023,1.0,1,48341.
+179,HP,15-FB0031NE,,,Intel,Core i3-9300T,3 GHz,1,8,,SSD,Intel,2 Kilograms,,11 November 2022,,,37999
+180,Lenovo,IdeaPad Gaming 3 15IHU6,,1920 x 1080 Pixels,Intel,Intel Core i5,3.1 GHz,1,,256 GB,SSD,NVIDIA,2.25 Kilograms,Black,12 November 2022,4.7,15,36905.
+181,HP,Probook 450 G8 i5 8G 512 W11,55.1 x 30.7 x 6.8 cm; 1.74 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,8 GB,512 GB,512 GB PCIe NVMe SSD,Intel,1.74 Kilograms,Pike silver aluminum,31 October 2023,,,37141
+182,HP,HP Victus Gaming,55.5 x 30.9 x 6.7 cm; 2.29 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512 GB PCIe NVMe M.2 SSD,AMD,2.29 Kilograms,Mica Silver,7 October 2023,,,37141
+183,HP,15-fb0071nia,55.5 x 30.6 x 6.8 cm; 2.29 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,,512 GB,512 GB PCIe NVMe M.2 SSD,AMD,2.29 Kilograms,Mica Silver,7 October 2023,,,37141
+184,HP,Victus Gaming Laptop,52.2 x 30.7 x 6.8 cm; 2.4 Kilograms,1920x1080 Pixels,Intel,Intel Core i5,2 GHz,8,,512 GB,512 GB PCIe NVMe SSD,NVIDIA,2.4 Kilograms,Mica Silver,8 November 2023,,,37029
+185,HP,14-DV2006NE,,,Intel,Core i3-9300T,3 GHz,1,16,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,36999
+186,HP,15-FB0032NE,,,Intel,Core i3-9300T,3 GHz,1,8,,SSD,Intel,2 Kilograms,,11 November 2022,,,36999
+187,LENOVO,IdeaPad Gaming 3 15ACH6 5600H 16GB 512GBSSD 3050TI W11,53.6 x 32.6 x 10.4 cm; 2.25 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,3.3 GHz,6,16 GB,512 GB,SSD,NVIDIA,2.25 Kilograms,Shadow Black,21 February 2023,,,36905
+188,DELL,G15-5515R5600H16G512R3050W11,58 x 35 x 8 cm; 2.5 Kilograms,1920x1080 Pixels,AMD,Ryzen 5 5600H,4200 MHz,6,16 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Phantom Grey,9 November 2022,,,36470
+189,LENOVO,IdeaPad Flex 5 14ITL05 - 82HS00QWCC,48 x 28.3 x 7.7 cm; 1.5 Kilograms,1920x1080 Pixels,Intel,Intel Core i5-1135G7,2.4 GHz,4,8 GB,256 GB,SSD,Intel,1.5 Kilograms,Graphite Grey,28 April 2023,,,36240
+190,HP,15-FB0033NE,,,Intel,AMD Ryzen 7 5800H,3 GHz,1,8 GB,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,35999
+191,Dell,Vostro 3500 i5-1135G7.16G.1256G2MX330G.UBU,55 x 35 x 7 cm; 1.8 Kilograms,,Intel,Intel Core i5-1135G7,4200 MHz,4,16,1256 GB,Hybrid,NVIDIA,1.8 Kilograms,Black,1 June 2022,3.1,36,19.
+192,Dell,Vostro 3510 i5-1135G7.16G.1256G2MX350G.UBU,49.7 x 32.5 x 7.9 cm; 1.8 Kilograms,,Intel,Intel Core i5-1135G7,4200 MHz,4,16,1256 GB,Hybrid,NVIDIA,1.8 Kilograms,Black,5 June 2022,2.4,4,490.
+193,DELL,Vostro 3520 i5-1235U 16G 512G MX550UBU,55 x 35 x 7 cm; 1.66 Kilograms,1920x1080,Intel,Intel Core i5,4.4 GHz,10,16 GB,512 GB,SSD,Intel,1.66 Kilograms,,28 April 2023,5.0,2,175.
+194,Dell,Vostro 3510 i5 1135G7 16G 512G UBU,50.5 x 32.7 x 7.8 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5-1135G7,4200 MHz,4,16 GB,512 GB,SSD,Intel,1.8 Kilograms,Black,14 February 2023,1.6,2,23920.
+195,ASUS,X515EP-BQ8G7W Laptop,49.4 x 29.8 x 8.2 cm; 1.8 Kilograms,1920x1080 Pixels,Intel,Intel Core i7-1165G7,2.8 GHz,4,8 GB,512 GB,SSD,NVIDIA,1.8 Kilograms,Gray,9 January 2023,1.0,1,29400.
+196,HP,15-FB0034NE,,,Intel,Core i3-9300T,3 GHz,1,,,SSD,Intel,2 Kilograms,,11 November 2022,,,34999
+197,DELL,Vostro 3520 i7-1255U 16G 512G MX550,49.2 x 32.5 x 7.6 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,3 November 2023,,,34854
+198,HP,15-DK2087NE,55.4 x 30.6 x 6.8 cm; 2.28 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i5,4400 MHz,4,8 GB,1256 GB,Solid State Hard Drive,NVIDIA,2.28 Kilograms,Black,8 July 2022,3.6,8,34555
+199,DELL,Vostro 3520 i7-1255U 8G 512G MX550 UBU,49.4 x 32.4 x 7.9 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,8 GB,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,18 August 2023,,,34046
+200,DELL,Vostro 3520 i7-1255U 8G 512G MX550,49.5 x 32.5 x 7.4 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,3 November 2023,,,34046
+201,HP,15-EG2005NE,,,Intel,Core i3-9300T,3 GHz,1,16,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,33999
+202,HP,14-dy0143ne,48.6 x 32 x 6.6 cm; 1.52 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i5-1135G7,4200 GHz,4,8,512 GB,SSD,Intel,1.52 Kilograms,Silver,13 April 2022,4.0,81,33220
+203,Lenovo,IdeaPad 5,51.6 x 30.7 x 7.4 cm; 1.66 Kilograms,1920 x 1080 Pixels,Intel,Core i7,2.8 GHz,4,16 GB,512 GB,SSD,NVIDIA,1.66 Kilograms,Grey,2 July 2021,3.7,4,33105
+204,DELL,Dell Vostro 3520,52 x 35 x 7.5 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,3 November 2023,,,32946
+205,DELL,Vostro 3520 i7-1255U 16G 512G MX550 UBU,50.1 x 32.7 x 7.6 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,18 August 2023,,,32680
+206,DELL,Vostro 3520 i7-1255U 16G 512G MX550 UBUNTU,49.7 x 32.5 x 7.7 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,18 September 2023,1.0,1,32680
+207,HP,14-EK0010NE,,,Intel,Core i3-9300T,3 GHz,1,16,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,1.0,1,31999
+208,HP,13-BF0003NE,,,Intel,Core i5,3 GHz,1,8 GB,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,31999
+209,HP,15-FA0089NE,,,Intel,Core i3-9300T,3 GHz,1,8 GB,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,31999
+210,HP,15-FA0087NE,,,Intel,Core i3-9300T,3 GHz,1,8 GB,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,31999
+211,HP,15-FA0088NE,,,Intel,Core i3-9300T,3 GHz,1,8 GB,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,31999
+212,DELL,Dell Vostro 3520,52 x 35 x 7.5 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,3 November 2023,,,31920
+213,HP,ProBook,50 x 30 x 3 cm; 3 Kilograms,,Intel,Intel Core i7,2.8 GHz,4,8 GB,512 GB,SSD,Intel,3 Kilograms,,3 August 2022,5.0,2,31464
+214,DELL,Vostro 3520 i7-1255U 8G 512G MX550 UBUNTU,50.2 x 36.8 x 7.6 cm; 1.66 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,8 GB,512 GB,512GB M.2 PCIe NVMe SSD,NVIDIA,1.66 Kilograms,Carbon Black,18 September 2023,,,31313
+215,Lenovo,82HU00AQED,47.79 x 28.3 x 6.9 cm; 2 Kilograms,,Intel,AMD Ryzen 7 5700U,3 GHz,1,,512 GB,SSD,NVIDIA,2 Kilograms,Grey,8 April 2023,,,30999
+216,HP,15-EG2006NE,,,Intel,Core i3-9300T,3 GHz,1,16,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,1.0,1,30999
+217,DELL,G15-5515 R5 600H 8G 512G RTX3050 WIN11,52.2 x 32.6 x 7.9 cm; 2.5 Kilograms,1920 x 1080 Pixels,AMD,Ryzen 5 5600H,4200 MHz,6,8 GB,512 GB,SSD,NVIDIA,2.5 Kilograms,Phantom Grey,14 February 2023,,,30982
+218,Dell,Vostro 3520 i7-1255U 16G 512G UBU,55 x 35 x 7 cm; 1.66 Kilograms,1920x1080,Intel,Intel Core i7,4.7 GHz,10,16 GB,512 GB,SSD,Intel,1.66 Kilograms,Carbon Black,12 March 2023,5.0,1,30982
+219,Dell,Vostro 3520 i7-1255U 8G 512G Iris UBU,49.7 x 32.7 x 7.6 cm; 1.66 Kilograms,1920x1080,Intel,Intel Core i7,4.7 GHz,10,16 GB,512 GB,SSD,Intel,1.66 Kilograms,,28 April 2023,,,30982
+220,Dell,Vostro,,,Intel,Intel Core i5,2.4 GHz,4,8 GB,"1.00, 256.00 TB",,NVIDIA,2.8 Kilograms,,9 September 2021,3.4,11,30000
+221,HP,15-dw3089ne,,1366x768 Pixels,Intel,Intel Core i5-1135G7,4200,4,8 GB,512 GB,SSD,NVIDIA,1.75 Kilograms,Black,13 July 2022,3.9,11,95.
+222,HP,14-DV2007NE,,,Intel,Core i3-9300T,3 GHz,1,,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,29999
+223,MSI,GF63 Thin Gaming,45 x 40 x 33 cm; 2 Kilograms,1920x1080 Pixels,Intel,Core i5-10500,2.5,6,4 GB,1 TB,HDD,"Intel, NVIDIA",2 Kilograms,Core Black,10 April 2022,,,29999
+224,DELL,Vostro 3520 i5-1235U 8G 512G MX550UBU,55 x 35 x 7 cm; 1.66 Kilograms,1920x1080,Intel,Intel Core i5,4.4 GHz,10,8 GB,512 GB,SSD,Intel,1.66 Kilograms,,28 April 2023,3.0,1,29657
+225,Lenovo,82QD008LED,32 x 16.9 x 6.7 cm; 1.63 Kilograms,1920x1080 Pixels,Intel,Core i7-1255U,1.7 GHz,10,8 GB,512 GB,"512GB SSD M.2 2280 PCIe® 3.0x4 NVMe®, SSD",Intel,1.63 Kilograms,Abyss Blue,16 May 2023,5.0,1,29594
+226,Lenovo,IdeaPad 5 15ITL05 - 82FG00WMED,51.7 x 30.5 x 7.4 cm; 1.66 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i7-1165G7,4700 MHz,4,8 GB,512 GB,SSD,NVIDIA,1.66 Kilograms,Grey,24 August 2022,2.9,2,28999
+227,HP,15-FB0036NE,,,Intel,Core i3-9300T,3 GHz,1,,1 TB,SSD,Intel,2 Kilograms,,11 November 2022,,,27999
+228,Dell,,49.8 x 32 x 8.4 cm; 2.83 Kilograms,,,,,,8 GB,1 TB,,,2.83 Kilograms,,27 December 2021,5.0,7,199.
+229,LENOVO,Lenovo IdeaPad Slim 3 15IAH8,52 x 32 x 7 cm; 1.62 Kilograms,1920x1080 Pixels,Intel,Core i5-12450H,2 GHz,8,,512 GB,512GB SSD M.2 2242 PCIe 4.0x4 NVMe,Intel,1.62 Kilograms,Arctic Grey,14 December 2023,,,27770
+230,Lenovo,Lenovo IdeaPad 3 - 5700U 8G 1T 256G,52 x 35 x 7 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,,1256 GB,"1TB HDD 5400rpm 2.5"" + 256GB SSD PCIe NVMe",AMD,1.65 Kilograms,Arctic Grey,12 October 2023,,,27746
+231,DELL,5406i3-16G512W10H,42 x 35.5 x 7.7 cm; 1.5 Kilograms,1366x768 Pixels,Intel,Intel Core i3,4100 MHz,2,16,512 GB,SSD,Intel,1.5 Kilograms,Silver,14 February 2023,5.0,1,27462
+232,Dell,Vostro,49.8 x 32 x 8.4 cm; 2.83 Kilograms,,Intel,,,,8 GB,1 TB,,Intel,2.83 Kilograms,,6 January 2022,3.5,5,1180.
+233,Dell,Dell Vostro 3500 i5-1135G7 16G 1.256T,52 x 32 x 7 cm; 1.8 Kilograms,1920 x 1080 Pixels,Intel,Intel Core i5-1135G7,2400 MHz,4,16,1256 GB,Hybrid,Intel,1.8 Kilograms,Black,21 May 2022,3.0,2,27450
+234,DELL,Vostro 3510 i5 1135G7 12G 256G UBU,52 x 35 x 7 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5-1135G7,4200 MHz,4,,256 GB,SSD,Intel,1.8 Kilograms,Black,14 February 2023,,,27100.
+235,HP,10 Hours,,1366x768 Pixels,Intel,Intel Core i7,1100 MHz,,8 GB,1 TB,HDD,Intel,2 Kilograms,Silver,30 April 2021,2.7,17,26999
+236,HP,13-bb0003ne,52.5 x 30.8 x 7.2 cm; 2.46 Kilograms,,Intel,Core i5 Family,3.4,8,8,,"Designed to run more efficiently and more reliably at faster speeds, DDR4 is the future of RAM. With its higher bandwidth, everything from multi-tasking to playing games gets a performance boost.",Intel,2.46 Kilograms,Silver,30 May 2022,2.5,3,26793
+237,Lenovo,Lenovo IdeaPad 3 R7-5700 8G 1TB,53.29 x 33.2 x 7.3 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,,1 TB,HDD,AMD,1.65 Kilograms,Arctic Grey,29 October 2023,,,26771
+238,Lenovo,Lenovo IdeaPad 3 R7-5700 8G 1T,53.6 x 33.2 x 7.2 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,,1 TB,HDD,AMD,1.65 Kilograms,Arctic Grey,29 October 2023,,,26771
+239,Lenovo,Lenovo IdeaPad 3 R7-5700 8GB 1T,53.5 x 33.2 x 7.2 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,,1 TB,HDD,AMD,1.65 Kilograms,Arctic Grey,29 October 2023,,,26771
+240,HP,15-dw3103ne,,1366x768 Pixels,Intel,Intel Core i7-1165G7,4700,4,8 GB,512 GB,SSD,NVIDIA,1.75 Kilograms,Black,13 July 2022,,,26713
+241,LENOVO,Lenovo IdeaPad Slim 3 15IAH8 I5-12450H 8G 512G,48.29 x 33.2 x 7.2 cm; 1.62 Kilograms,1920x1080 Pixels,Intel,Core i5-12450H,2 GHz,8,,512 GB,512GB SSD M.2 2242 PCIe 4.0x4 NVMe,Intel,1.62 Kilograms,Arctic Grey,4 November 2023,,,26679
+242,HP,HP Laptop 15-dw3377ne - Intel Core i5 -1135G7 - 8GB RAM - 512GB SSD - NVIDIA GeForce MX450 2GB - 15.6-inch HD - DOS - Jet Black,53.8 x 33.6 x 7.2 cm; 2.9 Kilograms,1366x768 Pixels,Intel,Intel Core i5,2.4 GHz,1,8,512 GB,SSD,NVIDIA,2.9 Kilograms,,5 March 2023,,,24578.
+243,Lenovo,Lenovo IdeaPad 3 - 5700U 8G 512G GRY,55.2 x 33.2 x 7.2 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,,512 GB,512GB SSD PCIe NVMe,AMD,1.65 Kilograms,Grey,9 December 2022,,,26396
+244,Dell,"Latitude 5410 i5-10210U 12GB 256GB 14""",40 x 30 x 7 cm; 1.52 Kilograms,1366x768 Pixels,Intel,Intel Core i5,1600 MHz,4,12 GB,256 GB,SSD,Intel,1.52 Kilograms,,25 February 2023,,,26103
+245,HP,14-EK0011NE,,,Intel,Core i5,3 GHz,1,8 GB,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,2.0,1,25999
+246,HP,15-EG2007NE,,,Intel,Core i3-9300T,3 GHz,1,,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,25999
+247,Lenovo,Lenovo IdeaPad 3 - 82KU00WCAK,53.6 x 33.4 x 8.2 cm; 1.65 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 7 5700U,1.8 GHz,8,8 GB,1 TB,HDD,AMD,1.65 Kilograms,Grey,9 December 2022,,,25832
+248,Dell,Inspiron 5406 i3/8G/256G/W10,40.5 x 39.1 x 7.8 cm; 1.5 Kilograms,1366x768 Pixels,Intel,Intel Core i3,4100 MHz,2,,256 GB,SSD,Intel,1.5 Kilograms,Silver,15 May 2023,,,25268
+249,HP,14-EK0252NG,52.3 x 31.2 x 7 cm; 2 Kilograms,,Intel,Core i7-660UM,3 GHz,1,8 GB,512 GB,SSD,NVIDIA,2 Kilograms,Blue,26 June 2022,1.0,1,25149
+250,Dell,V3510i511G8G256G350U,55 x 35 x 7 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5-1135G7,4200 MHz,4,8 GB,256 GB,SSD,NVIDIA,1.8 Kilograms,Black,15 May 2023,,,25066
+251,DELL,5406i3-12G256W10H,39.6 x 35.01 x 8 cm; 1.5 Kilograms,1366x768 Pixels,Intel,Intel Core i3,4100 MHz,2,12 GB,256 GB,SSD,Intel,1.5 Kilograms,Silver,14 February 2023,,,25005
+252,DELL,Vostro 3510 i51035G1 16G 512G UB,49.7 x 32.4 x 7.8 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5,3600 MHz,4,16 GB,512 GB,SSD,Intel,1.8 Kilograms,Black,14 February 2023,3.0,4,25000
+253,HP,15S-FQ5043NE,,,Intel,Core i3-9300T,3 GHz,1,8 GB,512 GB,SSD,Intel,2 Kilograms,,11 November 2022,,,24999
+254,Lenovo,IdeaPad,52 x 35 x 7 cm; 1.7 Kilograms,,,,,,8 GB,,,NVIDIA,1.7 Kilograms,Arctic Grey,21 December 2022,,,24578
+255,DELL,Vostro 3510 i51035G1 12G 256G UB,49.6 x 32.6 x 7.6 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5,3600 MHz,4,12 GB,256 GB,SSD,Intel,1.8 Kilograms,Black,14 February 2023,2.4,3,24578
+256,DELL,Vostro 3510 i51035G1 8G 256 UB,49.7 x 33.3 x 14.6 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5,3600 MHz,4,8 GB,256 GB,SSD,Intel,1.8 Kilograms,Black,29 November 2022,,,24139
+257,DELL,Vostro 3510 i51035G1 16G 1T 256 UB,49.4 x 32.3 x 8.1 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5,3600 MHz,4,16,1256 GB,Hybrid,Intel,1.8 Kilograms,Black,29 November 2022,5.0,2,23920
+258,Lenovo,Lenovo V15 G2 5500U 8G 1T 256G,53.4 x 33.1 x 7.2 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,1256 GB,"1TB HDD 5400rpm 2.5"" + 256 GB SSD PCIe NVMe M.2",AMD,1.7 Kilograms,Black,12 October 2023,,,23912
+259,Lenovo,IdeaPad,49 x 32 x 7 cm; 2.5 Kilograms,,Intel,Intel Core i5,2.4 GHz,5,8 GB,512 GB,,NVIDIA,2.5 Kilograms,GRAPHITE GREY,3 October 2021,,,22999
+260,Lenovo,,40 x 35 x 10 cm; 2 Kilograms,,AMD,Ryzen 5 4600U,2.8 GHz,5,8 GB,512 GB,,,2 Kilograms,ice,16 November 2023,,,22999
+261,Lenovo,Lenovo V15 G2 R5-5500U 8G 1T,53.2 x 33.1 x 7.2 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,1 TB,"SSD, HDD",AMD,1.7 Kilograms,Black,29 October 2023,,,22678
+262,Lenovo,Lenovo V15 G2 R5 8G 1TB,53.4 x 33.1 x 7.2 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,1 TB,"SSD, HDD",AMD,1.7 Kilograms,Black,29 October 2023,,,22678
+263,Lenovo,Lenovo V15 G2 5500U 8G 1T,52 x 35 x 7 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,1 TB,HDD,AMD,1.7 Kilograms,Black,29 October 2023,,,22678
+264,Lenovo,Lenovo V15 G2 R5 8G 1T,52 x 35 x 7 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,1 TB,HDD,AMD,1.7 Kilograms,Black,29 October 2023,,,22678
+265,Lenovo,Lenovo V15 G2 5500U 8G 512G,53.5 x 35.9 x 7.4 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,,512 GB,512GB SSD PCIe NVMe,AMD,1.7 Kilograms,Black,17 July 2023,,,22509
+266,Lenovo,Lenovo V15 G2 ALC - 82KD001EAK,56.2 x 33.5 x 7.4 cm; 1.7 Kilograms,1920x1080 Pixels,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,8 GB,256 GB,HDD,AMD,1.7 Kilograms,Black,9 December 2022,2.0,1,21882
+267,Lenovo,Lenovo V15 G2 5500U 8G 256G,55.7 x 34.5 x 7.4 cm; 1.7 Kilograms,,AMD,AMD Ryzen 5 5500U,2.1 GHz,6,8 GB,256 GB,SSD,AMD,1.7 Kilograms,,28 March 2023,1.0,1,21631
+268,Lenovo,IdeaPad 3 1 5ADA05 81W1017DFE,54.2 x 32 x 8.1 cm; 1.85 Kilograms,1920x1080 Pixels,AMD,Ryzen 7 3700U,2300 MHz,4,8 GB,512 GB,SSD,NVIDIA,1.85 Kilograms,,7 December 2022,1.0,2,21443
+269,HP,14-EK0012NE,,,Intel,Core i3-9300T,3 GHz,1,8 GB,256 GB,SSD,Intel,2 Kilograms,Silver,11 November 2022,,,20999
+270,DELL,Vostro 3510 i51035G1 8G 1T UB,49.5 x 32.2 x 7.6 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i5,1 GHz,4,8 GB,1 TB,HDD,Intel,1.8 Kilograms,Black,29 November 2022,,,20471
+271,HP,6B9X3EA,55.4 x 30.7 x 6.9 cm; 1.69 Kilograms,1920x1080 Pixels,AMD,Ryzen 3 5300U,2.6 GHz,4,,512 GB,512 GB PCIe® NVMe™ TLC M.2 SSD,AMD,1.69 Kilograms,Black,29 October 2023,,,19767
+272,HP,15s-eq 5300U 8G 512G,55.29 x 30.6 x 6.9 cm; 1.69 Kilograms,1920x1080 Pixels,AMD,Ryzen 3 5300U,2.6 GHz,4,,512 GB,512 GB PCIe® NVMe™ TLC M.2 SSD,AMD,1.69 Kilograms,Black,29 October 2023,,,19767
+273,Dell,Vostro 3510 i3-1115G 8G 512G,49.7 x 32.9 x 7.6 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i3,4100 MHz,2,,512 GB,SSD,Intel,1.8 Kilograms,Black,17 July 2023,,,19060
+274,LENOVO,82NB000GED,55.6 x 33.4 x 7.3 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,4,1 TB,HDD,Intel,1.85 Kilograms,GREY,13 April 2023,1.0,1,13844.
+275,Lenovo,V15 - 82NB001KED,54.5 x 42.4 x 7.5 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,4,256 GB,SSD,Intel,1.85 Kilograms,Grey,14 April 2023,5.0,1,660.
+276,Dell,,51.7 x 32.5 x 7.6 cm; 2.68 Kilograms,,,Core I3 1115G4,3 GHz,,4,256 GB,,,2.68 Kilograms,,17 February 2022,2.4,4,1400.
+277,Dell,Latitude,47 x 31 x 7.8 cm; 2.74 Kilograms,,Intel,,1.6 GHz,,4,1 TB,,Intel,2.74 Kilograms,Black,1 April 2021,,,17560.
+278,Dell,VOSTRO,20 x 20 x 15 cm; 1.91 Kilograms,,Intel,Core i3,1.2 GHz,,8 GB,1 TB,,Intel,1.91 Kilograms,Black,7 July 2021,4.1,5,18200
+279,ASUS,90NB0VX1-M010H0,48.6 x 28.9 x 6.7 cm; 3 Kilograms,,Intel,Intel Core i3,3.4,1,4,256,SSD,Intel,3 Kilograms,black,23 August 2023,,,18054
+280,Dell,Latitude,45 x 28.8 x 7.8 cm; 2.43 Kilograms,,Intel,Core i5,1.6 GHz,,4,1 TB,,Intel,2.43 Kilograms,Black,1 April 2021,,,17560.
+281,Dell,,55 x 35 x 7 cm; 2.8 Kilograms,,,,,,8 GB,1 TB,,,2.8 Kilograms,,27 April 2022,2.3,9,33105.
+282,DELL,Vostro 3510 i3 8 256 ub,49.7 x 32.6 x 7.8 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i3,4100 MHz,2,8 GB,256,SSD,Intel,1.8 Kilograms,Black,29 November 2022,3.4,7,17560
+283,Dell,Latitude,41.2 x 27.4 x 7.8 cm; 2.09 Kilograms,,Intel,,1.6 GHz,,8 GB,256 GB,solid state drive,Intel,2.09 Kilograms,,28 April 2021,,,20471.
+284,Dell,VOSTRO,49.6 x 31.8 x 7.2 cm; 2.75 Kilograms,,Intel,Core i3,,2,4 GB,1 TB,,Intel,2.75 Kilograms,,13 November 2020,3.6,11,690.
+285,DELL,Vostro 3510 i3 12G 256 ub,51.9 x 33.2 x 7.4 cm; 1.8 Kilograms,1366x768 Pixels,Intel,Intel Core i3,1.7 GHz,2,12 GB,256,256 GB PCIe NVMe M.2 SSD,Intel,1.8 Kilograms,Black,31 January 2023,3.1,7,17264
+286,HP,HP 15 R3-3250 8G 1T 256G DOS,53.9 x 30.4 x 6.9 cm; 1.74 Kilograms,1366x768 Pixels,AMD,Ryzen 3 3250U,2.6 GHz,2,,1256 GB,1 TB 5400 rpm SATA HDD + 256 GB PCIe NVMe M.2 SSD,AMD,1.74 Kilograms,Black,29 October 2023,,,17100
+287,Dell,Latitude,,1080 x 1920 Pixels,Intel,Core i5,1.6 GHz,4,8 GB,1 TB,,Intel,1.54 Kilograms,,26 April 2021,4.1,51,16713.
+288,Dell,Inspiron,49.4 x 32.2 x 7.6 cm; 2.76 Kilograms,,Intel,,3.4 GHz,,4 GB,1 TB,,Intel,2.76 Kilograms,Black,4 April 2021,,,16300
+289,Dell,Latitude,,,Intel,Core i5,1.6 GHz,,8 GB,1 TB,,Intel,,Black,7 July 2021,,,17560.
+290,HP,15S-FQ5000NIA,,,`,Core i3-9300T,3 GHz,1,4,,SSD,Intel,2 Kilograms,,11 November 2022,,,15999
+291,HP,HP 15 R3-3250U 4G 1T DOS,52 x 30.2 x 7 cm; 1.74 Kilograms,1366x768 Pixels,AMD,Ryzen 3 3250U,2.6 GHz,2,,1 TB,1 TB 5400 rpm SATA HDD,AMD,1.74 Kilograms,Black,29 October 2023,,,15595
+292,HP,HP Laptop 15s-fq5009ne (6G3H3EA),56.1 x 31.1 x 7.3 cm; 1.69 Kilograms,,Intel,Core i3,3.3 GHz,6,4,512 GB,SSD,Intel,1.69 Kilograms,Black,18 November 2022,4.5,2,15360
+293,HP,ELITEBOOK,20.4 x 12.1 x 2.9 cm; 4.95 Kilograms,,Intel,Core i5,2.5 GHz,2,8 GB,256 GB,,Intel,4.95 Kilograms,Silver,12 July 2021,,,14950
+294,Dell,15GW3250U8G1T,52.2 x 30.5 x 8 cm; 1.74 Kilograms,1366x768 Pixels,AMD,Ryzen 3 3250U,2600 MHz,2,8 GB,1 TB,HDD,AMD,1.74 Kilograms,Black,15 May 2023,5.0,2,14734
+295,LENOVO,V15 - I3-10110U 8G 1TB FHD,53.4 x 33.2 x 7.4 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,29 October 2023,,,14480
+296,LENOVO,V15 i3-10110U 8G 1TB,53.5 x 33.29 x 7.2 cm; 1.85 Kilograms,1366x768 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,29 October 2023,,,14414
+297,HP,15S-FQ5048NE,,,Intel,Core i3-9300T,3 GHz,1,4,,SSD,Intel,2 Kilograms,,11 November 2022,3.0,2,13999
+298,LENOVO,Lenovo V15 IML,53.4 x 33.2 x 7.4 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13885
+299,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13885
+300,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13885
+301,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13885
+302,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13885
+303,LENOVO,V15 - I3-10110U 4G 1TB FHD,53.4 x 33.29 x 7.6 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,4,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,29 October 2023,,,13885
+304,LENOVO,V15 i3-10110U 8G 256G FHD,54.3 x 33.3 x 7.4 cm; 1.85 Kilograms,1920x1080 Pixels,Intel,Intel Core i3,2.1 GHz,2,8 GB,256 GB,SSD,Intel,1.85 Kilograms,Grey,14 April 2023,1.0,2,13844
+305,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1366x768 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13819
+306,LENOVO,Lenovo V15 IML,52 x 32 x 7 cm; 1.85 Kilograms,1366x768 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,9 November 2023,,,13819
+307,LENOVO,V15 i3-10110U 4G 1TB,53.2 x 33.2 x 10.9 cm; 1.85 Kilograms,1366x768 Pixels,Intel,Intel Core i3,2.1 GHz,2,,1 TB,HDD,Intel,1.85 Kilograms,Iron Grey,29 October 2023,,,13819
+308,Dell,Latitude,,,Intel,Core i5,2.1 GHz,,4 GB,250 GB,,Intel,11 g,Black,24 June 2021,1.2,3,14734.
